@@ -14,5 +14,5 @@ A web-based application to efficiently manage property leases, tenants, rent pay
 - 📊 Dashboard with key metrics and analytics
 - 🔒 Role-based access control (Admin, Manager, Tenant)
 
-  DEMO LONK FOR LEASE MANAGEMENT PROJECT
-  https://drive.google.com/file/d/1-yFYYPI2RULtH8wrsA4CQWqlsREghw2o/view?usp=sharing
+  DEMO LINK FOR LEASE MANAGEMENT PROJECT
+ [Watch the demo video](https://drive.google.com/file/d/1-yFYYPI2RULtH8wrsA4CQWqlsREghw2o/view?usp=sharing)
